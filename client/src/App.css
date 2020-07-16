@@ -1,0 +1,197 @@
+ @import "~antd/dist/antd.css";
+.navbar{
+    width: 100%;
+ 
+ position: fixed;
+  display: flex;
+  flex-direction:row;
+  text-decoration: none;
+justify-content: space-around;
+
+margin-right: 20%;
+z-index: 9;
+padding: 20px;
+background-color: white;
+}
+.infoor{
+  text-align: center;
+}
+  
+container-fluid{
+    background-color: orangered;
+   
+}
+#components-layout-demo-fixed .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+   
+  }
+  .ajout {
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 15px;
+  }
+.mor{
+    padding-top: 8%;
+
+}
+#Login{
+    text-decoration:none;
+    font-family: initial;
+    font-size: xx-large;
+}
+
+.img3{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbarcss{
+    width: 95%;
+    margin-left: -16%;
+    position: fixed;
+     display: flex;
+     flex-direction:row;
+     text-decoration: none;
+   justify-content: space-around;
+   
+
+   margin-right: 20%;
+   z-index: 9;
+   padding: 10px;
+   background-color: white;
+   
+   }
+   .navbarcss :hover{
+  color: #D86422;
+  
+  
+   }
+   .par1Med .part2Med{
+     text-size-adjust: 20px;
+     color: blue;
+   }
+
+   .logodocgroup{
+    width: 300px;
+  
+  }
+ 
+  .menu-items{
+    display: flex;
+    justify-content: space-between;
+    width: 18%;
+  }
+  .dropdown {
+  
+    display: none;
+    text-decoration: none;
+    list-style-type: none;
+    position: relative;
+  }
+  .ref:hover .dropdown {
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    background-color: white;
+  }
+ 
+legend {
+    background-color:#1890ff;
+    color: #fff;
+    padding: 3px 6px;
+}
+.singer-img{
+  width: 150px;
+}
+.fav-item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+  text-align: center;
+   overflow: hidden; 
+  background: #1890ff;
+  color: antiquewhite;
+}
+.modif{
+  margin-left: 33%;
+}
+.imgg{
+  margin-left: 109%;
+    border-radius: 80%;
+} 
+h7{
+  padding-left: 6%;
+}
+#outlined-basic{
+  padding: 10%;
+
+}
+.inf{
+  display: flex;
+}
+.list{
+  
+  width: 100%;
+  
+}
+.Bo{
+  margin-top: 17%;
+  border-radius: 100%;
+  margin-left:20%;
+
+}
+.footer{
+    background-color:#1890ff;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* espacement au milieu */
+    width: 100%;
+    margin: 0px auto;
+    padding: 1%;
+}
+.footer p:hover{
+  color: #D86422;
+  cursor: grab;
+  
+}
+.cor{
+color: black;
+}
+h4{
+  color: antiquewhite;
+}
+.fooo{
+    
+
+    font-family: Arial,Helvetica,sans-serif;
+    background-color:black;
+    color: blanchedalmond;
+    text-align: center;
+} 
+
+.formo{
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
+  position: fixed; 
+}

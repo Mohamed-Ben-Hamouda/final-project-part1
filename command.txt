@@ -1,0 +1,25 @@
+
+coté backend:
+
+npm init
+npm i express mongoose
+npm i -D nodemon
+npm i concurrently
+npm install --save express-validator
+npm install bcryptjs
+/////////////////////////////////
+coté client:
+
+npx create-react-app client
+npm i axios redux react-redux redux-thunk react-router-dom
+NPM I ANTD
+
+npm install bootstrap
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+npm install @material-ui/core
+
+////////////
+link font awsem+bootstrap dans index.html
